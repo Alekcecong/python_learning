@@ -9,7 +9,7 @@
 
   [See the code](./test.py)
 
-  ![](./pic1.png)
+  ![](./pic_temp/pic1.png)
 
 
 
